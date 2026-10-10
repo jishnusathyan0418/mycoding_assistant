@@ -12,9 +12,5 @@ for experimentation; it does not replace or alter the original. To try it, copy
 Run from this folder:
 
 ```text
-cd original-prototype
 python agent.py
 ```
-
-This folder has no API integration and no assessment-specific changes. Build on it
-independently. The assessment solution is in `../assessment/`.
