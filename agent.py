@@ -77,7 +77,7 @@ for attempt in range(MAX_RETRIES):
              "code": "..."
             }}.
             7. Do not include explanations or markdown.    
-                        """
+            """
 
     response = client.chat.completions.create(
             model=groq_model,
